@@ -4,7 +4,7 @@ A simple, intuitive Android application built with Kotlin and Jetpack Compose th
 
 ## 📸 Screenshots
 
-![Unit Converter App](image.png)
+<img src="image.png" width="250" alt="Unit Converter App">
 
 ## ✨ Features
 
