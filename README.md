@@ -4,7 +4,7 @@ A simple, intuitive Android application built with Kotlin and Jetpack Compose th
 
 ## 📸 Screenshots
 
-![Unit Converter App](Image.png)
+![Unit Converter App](image.png)
 
 ## ✨ Features
 
